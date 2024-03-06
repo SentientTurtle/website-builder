@@ -1,0 +1,9 @@
+User-agent: GPTBot
+User-agent: Bingbot
+User-agent: AdIdxBot
+User-agent: BingPreview
+User-agent: MicrosoftPreview
+Disallow: /
+
+User-agent: *
+Disallow: /
